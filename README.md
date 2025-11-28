@@ -48,3 +48,4 @@ Ready to take your AI research journey to the next level? Join the **[Become AI 
 - Exclusive content and updates
 
 **Get a 7-day free trial if you join now!** → [Join here](https://www.skool.com/become-ai-researcher-2669/about)
+# AI-research
